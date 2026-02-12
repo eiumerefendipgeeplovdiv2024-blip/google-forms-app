@@ -26,7 +26,7 @@ if submitted:
     if q6 == "Индия": points += 1
     if q7 == "Сахара": points += 1
     if q8 == "Босфорът": points += 1
-    if q9.== "Париж": points += 1
+    if q9== "Париж": points += 1
     if q10 == 7: points += 1
 
     if points == 10:
